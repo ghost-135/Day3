@@ -1,0 +1,57 @@
+*{
+    padding: 5;
+    margin: 1;
+}
+
+.villian{
+         height:200%;
+         width:200%;
+         background-image: url(./d.jpg);
+}
+
+
+
+.logo{
+    color:bisque;
+    letter-spacing:3px;
+}
+ul li{
+    display: inline-block;
+    padding:9px 13px;
+}
+
+ul li a{
+    color:lightgrey;
+    text-decoration: none;
+}
+ul li a:hover{
+    color:black;
+}
+
+.button{
+    background-color: blue;
+    color:whitesmoke;
+    text-decoration: none;
+    border:3px solid transparent ;
+    font width: bold;
+    padding: 8px;
+    border-radius:20px;
+    }
+
+.button:hover{
+      transform: scale(1.8);
+}
+
+.btn{
+    background-color: blue;
+    color:whitesmoke;
+    text-decoration: none;
+    border:3px solid transparent ;
+    font width: bold;
+    padding: 8px;
+    border-radius:20px;
+}
+
+.btn:hover{
+    transform: scale(1.8)
+}
